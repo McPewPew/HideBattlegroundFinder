@@ -1,8 +1,8 @@
-# AutoDB
-A 1.12.1 Vanilla WoW addon that automatically does /db chests and /db rares for pfQuest users.
+# HideBattlegroundFinder
+A Turtle WowW addon that automatically hides the Battleground finder minimap icon with - /script TWMiniMapBattlefieldFrame:Hide();
 
-Install location should be: ..\Interface\AddOns\AutoDB
+Install location should be: ..\Interface\AddOns\HideBattlegroundFinder
 
-**Make sure you remove the "-main" from the "AutoDB-main" folder so it becomes just "AutoDB"**
+**Make sure you remove the "-main" from the "HideBattlegroundFinder-main" folder so it becomes just "HideBattlegroundFinder"**
 
-_99% of this addon's code by Trckster. They've given me permission to upload this version of it._
+_99% of this addon's code by Trckster.
