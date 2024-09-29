@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: HideBattlegroundFinder
+## Author: Lexie (+McPewPew)
+## Notes: Automatically /script TWMiniMapBattlefieldFrame:Hide()
+## Version: 1
+HideBattlegroundFinder.lua
