@@ -1,5 +1,6 @@
 # HideBattlegroundFinder
 A Turtle WowW addon that automatically hides the Battleground finder minimap icon with - /script TWMiniMapBattlefieldFrame:Hide();
+It doesn't play nicely with MinimapButtonBag, but is fine with MinimapButtonFrame.
 
 Install location should be: ..\Interface\AddOns\HideBattlegroundFinder
 
